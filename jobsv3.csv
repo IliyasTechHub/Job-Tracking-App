@@ -1,0 +1,401 @@
+Sn,Companies Name,City,HR Mail ID,Career Link,Status,Roles,Packages,Experience,WFH/WFO,Skills,Date ,Follow-up-1(24hrs),Follow-up-2(48hrs),Follow-up-3(100 HRS),Shifts
+1,Darwinbox,Hydrabad,contact@darwinbox.in,https://www.darwinbox.com/careers,Applied,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,DONE,DAY
+2,Keka HR,Hydrabad,srinidhi.d@keka.com,https://keka.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+3,Recykal,Hydrabad,,https://recykal.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+4,Skyroot Aerospace,Hydrabad,,https://skyroot.in/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+5,Dhruva Space,Hydrabad,,https://dhruvaspace.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+6,Aganitha Cognitive Solutions,Hydrabad,,https://aganitha.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+7,GenepoweRx,Hydrabad,,https://genepowerx.com/careers,Applied,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+8,Consytel Lifesciences,Hydrabad,,https://consytel.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+9,TalentSprint,Hydrabad,,https://talentsprint.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+10,GrabOn,Hydrabad,,https://grabon.in/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+11,Urban Kisaan,Hydrabad,,https://urbankisaan.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+12,StanPlus,Hydrabad,suhani.nagpal@stanplus.co.in,https://stanplus.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+13,Neemans,Hydrabad,abdul.w@neemans.com,https://neemans.in/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+14,Yellow.ai,Hydrabad,abdul.w@neemans.com,https://yellow.ai/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+15,Hug Innovations,Hydrabad,abdul.w@neemans.com,https://huginnovations.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+16,NowPurchase,Hydrabad,abdul.w@neemans.com,https://nowpurchase.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+17,Innominds,Hydrabad,abdul.w@neemans.com,https://innominds.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+18,MosChip Technologies,Hydrabad,abdul.w@neemans.com,https://moschip.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+19,ValueLabs (startup-style scaleup),Hydrabad,abdul.w@neemans.com,https://valuelabs.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+20,Cyient (digital analytics units),Hydrabad,abdul.w@neemans.com,https://cyient.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+21,Fractal Analytics,Hydrabad,abdul.w@neemans.com,https://fractal.ai/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+22,Tiger Analytics,Hydrabad,abdul.w@neemans.com,https://tigeranalytics.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+23,Tredence,Hydrabad,abdul.w@neemans.com,https://tredence.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+24,Gramener,Hydrabad,abdul.w@neemans.com,https://gramener.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+25,Haptik,Hydrabad,abdul.w@neemans.com,https://haptik.ai/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+26,Razorpay,Hydrabad,abdul.w@neemans.com,https://razorpay.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+27,Zenoti,Hydrabad,abdul.w@neemans.com,https://zenoti.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+28,HighRadius,Hydrabad,abdul.w@neemans.com,https://highradius.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+29,Hevo Data,Hydrabad,abdul.w@neemans.com,https://hevodata.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+30,Uniphore,Hydrabad,abdul.w@neemans.com,https://uniphore.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+31,BlueYonder,Hydrabad,abdul.w@neemans.com,https://blueyonder.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+32,OpenText (product analytics teams),Hydrabad,abdul.w@neemans.com,https://opentext.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+33,ThoughtSpot (India base),Hydrabad,abdul.w@neemans.com,https://thoughtspot.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+34,Kore.ai,Hydrabad,abdul.w@neemans.com,https://kore.ai/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+35,Whatfix,Hydrabad,abdul.w@neemans.com,https://whatfix.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+36,Zemoso Technologies,Hydrabad,abdul.w@neemans.com,https://zemosolabs.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+37,TechMojo,Hydrabad,abdul.w@neemans.com,https://techmojo.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+38,Cloud4C,Hydrabad,abdul.w@neemans.com,https://cloud4c.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+39,Pi DATACENTERS,Hydrabad,abdul.w@neemans.com,https://pidatacenters.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+40,CtrlS,Hydrabad,abdul.w@neemans.com,https://ctrls.in/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+41,Quinbay,Hydrabad,abdul.w@neemans.com,https://quinbay.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+42,Experian India (analytics hub),Hydrabad,abdul.w@neemans.com,https://experian.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+43,Novartis Analytics (Hyderabad hub),Hydrabad,abdul.w@neemans.com,https://novartis.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+44,Optum (analytics-heavy teams),Hydrabad,abdul.w@neemans.com,https://optum.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+45,Wells Fargo Analytics,Hydrabad,abdul.w@neemans.com,https://wellsfargo.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+46,JPMorgan Analytics Center,Hydrabad,abdul.w@neemans.com,https://jpmorgan.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+47,ServiceNow (data roles),Hydrabad,abdul.w@neemans.com,https://servicenow.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+48,Pegasystems,Hydrabad,abdul.w@neemans.com,https://pega.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+49,Salesforce (India analytics teams),Hydrabad,abdul.w@neemans.com,https://salesforce.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+50,Amazon Development Center (analytics roles),Hydrabad,abdul.w@neemans.com,https://amazon.jobs/en/teams/India,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+51,Microsoft,Hydrabad,abdul.w@neemans.com,https://careers.microsoft.com,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+52,Google,Hydrabad,abdul.w@neemans.com,https://careers.google.com,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+53,Amazon,Hydrabad,abdul.w@neemans.com,https://www.amazon.jobs,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+54,Apple,Hydrabad,abdul.w@neemans.com,https://jobs.apple.com,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+55,Meta,Hydrabad,abdul.w@neemans.com,https://www.metacareers.com,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+56,Oracle,Hydrabad,abdul.w@neemans.com,https://www.oracle.com/corporate/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+57,IBM,Hydrabad,abdul.w@neemans.com,https://www.ibm.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+58,Accenture,Hydrabad,abdul.w@neemans.com,https://www.accenture.com/in-en/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+59,Deloitte,Hydrabad,abdul.w@neemans.com,https://www2.deloitte.com/global/en/careers.html,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+60,EY (Ernst & Young),Hydrabad,abdul.w@neemans.com,https://www.ey.com/en_in/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+61,KPMG,Hydrabad,abdul.w@neemans.com,https://home.kpmg/xx/en/home/careers.html,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+62,PwC,Hydrabad,abdul.w@neemans.com,https://www.pwc.in/careers.html,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+63,Jp Morgan Chase,Hydrabad,abdul.w@neemans.com,https://careers.jpmorgan.com/global/en/home,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+64,Goldman Sachs,Hydrabad,abdul.w@neemans.com,https://www.goldmansachs.com/careers/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+65,Wells Fargo,Hydrabad,abdul.w@neemans.com,https://www.wellsfargo.com/about/careers/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+66,HSBC,Hydrabad,abdul.w@neemans.com,https://www.hsbc.com/careers/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+67,American Express,Hydrabad,abdul.w@neemans.com,https://www.americanexpress.com/en-us/careers/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+68,UBS,Hydrabad,abdul.w@neemans.com,https://www.ubs.com/global/en/careers.html,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+69,Citi,Hydrabad,abdul.w@neemans.com,https://www.citigroup.com/citi/careers/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+70,Barclays,Hydrabad,abdul.w@neemans.com,https://search.jobs.barclays/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+71,Qualcomm,Hydrabad,abdul.w@neemans.com,https://www.qualcomm.com/company/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+72,Samsung R&D,Hydrabad,abdul.w@neemans.com,https://www.samsung.com/in/samsung-research-institute/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+73,Intel,Hydrabad,abdul.w@neemans.com,https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+74,Nvidia,Hydrabad,abdul.w@neemans.com,https://www.nvidia.com/en-us/about-nvidia/careers/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+75,AMD,Hydrabad,abdul.w@neemans.com,https://www.amd.com/en/corporate/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+76,Dell Technologies,Hydrabad,abdul.w@neemans.com,https://jobs.dell.com,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+77,DXC Technology,Hydrabad,abdul.w@neemans.com,https://dxc.com/us/en/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+78,SAP Labs,Hydrabad,abdul.w@neemans.com,https://jobs.sap.com,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+79,Salesforce,Hydrabad,abdul.w@neemans.com,https://www.salesforce.com/company/careers/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+80,ServiceNow,Hydrabad,abdul.w@neemans.com,https://www.servicenow.com/careers.html,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+81,Bosch Global Software,Hydrabad,abdul.w@neemans.com,https://www.bosch-career.com/en,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+82,Siemens,Hydrabad,abdul.w@neemans.com,https://new.siemens.com/global/en/company/jobs.html,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+83,Schneider Electric,Hydrabad,abdul.w@neemans.com,https://www.se.com/in/en/about-us/careers/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+84,Honeywell,Hydrabad,abdul.w@neemans.com,https://careersathoneywell.com,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+85,GE Digital,Hydrabad,abdul.w@neemans.com,https://jobs.gecareers.com/global/en,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+86,Philips,Hydrabad,abdul.w@neemans.com,https://www.careers.philips.com/global/en,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+87,Novartis,Hydrabad,abdul.w@neemans.com,https://www.novartis.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+88,Roche,Hydrabad,abdul.w@neemans.com,https://www.roche.com/careers.htm,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+89,Pfizer,Hydrabad,abdul.w@neemans.com,https://www.pfizer.com/careers,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+90,AstraZeneca,Hydrabad,abdul.w@neemans.com,https://careers.astrazeneca.com,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+91,PepsiCo,Hydrabad,abdul.w@neemans.com,https://www.pepsicojobs.com/main/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+92,Procter & Gamble,Hydrabad,abdul.w@neemans.com,https://www.pgcareers.com,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+93,Unilever,Hydrabad,abdul.w@neemans.com,https://www.unilever.com/careers/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+94,Walmart Global Tech,Hydrabad,abdul.w@neemans.com,https://careers.walmart.com,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+95,Target,Hydrabad,abdul.w@neemans.com,https://jobs.target.com,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+96,Costco,Hydrabad,abdul.w@neemans.com,https://www.costco.com/jobs.html,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+97,IKEA,Hydrabad,abdul.w@neemans.com,https://www.ikea.com/in/en/this-is-ikea/work-with-us/,Pending,DA,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+98,Adidas,Hydrabad,abdul.w@neemans.com,https://careers.adidas-group.com/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+99,Uber,Hydrabad,abdul.w@neemans.com,https://www.uber.com/global/en/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+100,Airbnb,Hydrabad,abdul.w@neemans.com,https://careers.airbnb.com/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+101,RedBrick AI,Mumbai,abdul.w@neemans.com,https://www.redbrickai.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+102,Atomic Loops,Mumbai,abdul.w@neemans.com,https://www.atomicloops.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+103,Voicemaker,Mumbai,abdul.w@neemans.com,https://www.voicemaker.in/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+104,Searchin,Mumbai,abdul.w@neemans.com,https://searchin.ai/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+105,BrandNav,Mumbai,abdul.w@neemans.com,https://brandnav.io/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+106,Upswing,Mumbai,abdul.w@neemans.com,https://upswing.one/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+107,FlexifyMe,Mumbai,abdul.w@neemans.com,https://flexifyme.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+108,BioMarkIQ,Mumbai,abdul.w@neemans.com,https://biomarkiq.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+109,Xplore Health,Mumbai,abdul.w@neemans.com,https://xplorehealth.ai/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+110,FORM3D,Mumbai,abdul.w@neemans.com,https://form3d.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+111,Facilio,Mumbai,abdul.w@neemans.com,https://facilio.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+112,Zvolv,Mumbai,abdul.w@neemans.com,https://zvolv.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+113,Senseforth.ai,Mumbai,abdul.w@neemans.com,https://senseforth.ai/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+114,Acceldata,Mumbai,abdul.w@neemans.com,https://www.acceldata.io/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+115,Mindstix AI,Mumbai,abdul.w@neemans.com,https://mindstix.ai/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+116,AlgoBulls,Mumbai,abdul.w@neemans.com,https://algobulls.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+117,DeepTek,Mumbai,abdul.w@neemans.com,https://deeptek.ai/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+118,Nuclios,Mumbai,abdul.w@neemans.com,https://nuclios.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+119,Finiq Consulting,Mumbai,abdul.w@neemans.com,https://finiq.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+120,Winjit Digital,Mumbai,abdul.w@neemans.com,https://www.winjit.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+121,Coditas,Mumbai,abdul.w@neemans.com,https://coditas.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+122,Taction Software,Mumbai,abdul.w@neemans.com,https://tactionsoftware.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+123,Qualitas Global,Mumbai,abdul.w@neemans.com,https://qualitasglobal.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+124,Harbinger Group (new SaaS units),Mumbai,abdul.w@neemans.com,https://harbingergroup.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+125,Knorex,Mumbai,abdul.w@neemans.com,https://knorex.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+126,Mindbowser,Mumbai,abdul.w@neemans.com,https://mindbowser.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+127,Aexonic Technologies,Mumbai,abdul.w@neemans.com,https://aexonic.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+128,Talent500 (Pune tech hub teams),Mumbai,abdul.w@neemans.com,https://talent500.co/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+129,Growisto,Mumbai,abdul.w@neemans.com,https://growisto.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+130,InCruiter,Mumbai,abdul.w@neemans.com,https://incruiter.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+131,Dataeaze,Mumbai,abdul.w@neemans.com,https://dataeaze.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+132,Quantiphi (new-age AI teams),Mumbai,abdul.w@neemans.com,https://quantiphi.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+133,Enfec Solutions,Mumbai,abdul.w@neemans.com,https://enfec.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+134,ThinkBridge,Mumbai,abdul.w@neemans.com,https://thinkbridge.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+135,CloudNext,Mumbai,abdul.w@neemans.com,https://cloudnext.tech/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+136,Rean Cloud,Mumbai,abdul.w@neemans.com,https://reancloud.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+137,LogicMonitor India (new teams),Mumbai,abdul.w@neemans.com,https://www.logicmonitor.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+138,Fyntune Solutions,Mumbai,abdul.w@neemans.com,https://fyntune.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+139,Securly,Mumbai,abdul.w@neemans.com,https://www.securly.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+140,Clue4,Mumbai,abdul.w@neemans.com,https://clue4.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+141,BluCognition,Mumbai,abdul.w@neemans.com,https://blucognition.ai/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+142,SimplifyVMS,Mumbai,abdul.w@neemans.com,https://simplifyvms.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+143,Vymo (Pune analytics teams),Mumbai,abdul.w@neemans.com,https://vymo.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+144,Skillenza,Mumbai,abdul.w@neemans.com,https://skillenza.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+145,Detect Technologies,Mumbai,abdul.w@neemans.com,https://detecttechnologies.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+146,CreditVidya (Pune analytics teams),Mumbai,abdul.w@neemans.com,https://www.creditvidya.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+147,Bizom,Mumbai,abdul.w@neemans.com,https://bizom.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+148,GoStops Tech,Mumbai,abdul.w@neemans.com,https://gostops.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+149,Qure.ai (Pune presence),Mumbai,abdul.w@neemans.com,https://www.qure.ai/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+150,SpotDraft,Mumbai,abdul.w@neemans.com,https://www.spotdraft.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+151,Tata Consultancy Services (TCS),Mumbai,abdul.w@neemans.com,https://www.tcs.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+152,Infosys,Mumbai,abdul.w@neemans.com,https://www.infosys.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+153,Wipro,Mumbai,abdul.w@neemans.com,https://careers.wipro.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+154,Tech Mahindra,Mumbai,abdul.w@neemans.com,https://careers.techmahindra.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+155,Accenture,Mumbai,abdul.w@neemans.com,https://www.accenture.com/in-en/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+156,Capgemini,Mumbai,abdul.w@neemans.com,https://www.capgemini.com/in-en/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+157,Cognizant,Mumbai,abdul.w@neemans.com,https://careers.cognizant.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+158,IBM India,Mumbai,abdul.w@neemans.com,https://www.ibm.com/in-en/employment,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+159,Barclays Technology Centre,Mumbai,abdul.w@neemans.com,https://search.jobs.barclays/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+160,HSBC Technology India,Mumbai,abdul.w@neemans.com,https://www.hsbc.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+161,Deutsche Bank,Mumbai,abdul.w@neemans.com,https://careers.db.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+162,Credit Suisse,Mumbai,abdul.w@neemans.com,https://www.credit-suisse.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+163,Zensar Technologies,Mumbai,abdul.w@neemans.com,https://www.zensar.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+164,L&T Infotech (LTI),Mumbai,abdul.w@neemans.com,https://www.ltimindtree.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+165,Mphasis,Mumbai,abdul.w@neemans.com,https://careers.mphasis.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+166,Amdocs,Mumbai,abdul.w@neemans.com,https://jobs.amdocs.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+167,Virtusa,Mumbai,abdul.w@neemans.com,https://www.virtusa.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+168,BNY Mellon,Mumbai,abdul.w@neemans.com,https://careers.bnymellon.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+169,KPIT Technologies,Mumbai,abdul.w@neemans.com,https://www.kpit.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+170,Cybage Software,Mumbai,abdul.w@neemans.com,https://www.cybage.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+171,Quick Heal Technologies,Mumbai,abdul.w@neemans.com,https://www.quickheal.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+172,ThoughtWorks,Mumbai,abdul.w@neemans.com,https://www.thoughtworks.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+173,NVIDIA India,Mumbai,abdul.w@neemans.com,https://www.nvidia.com/en-us/about-nvidia/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+174,Veritas Technologies,Mumbai,abdul.w@neemans.com,https://www.veritas.com/company/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+175,Red Hat India,Mumbai,abdul.w@neemans.com,https://www.redhat.com/en/jobs,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+176,Deutsche Börse IT Center,Mumbai,abdul.w@neemans.com,https://careers.deutsche-boerse.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+177,Bhatia Brothers Manufacturing,Mumbai,abdul.w@neemans.com,https://www.bhatia-group.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+178,Serum Institute of India,Mumbai,abdul.w@neemans.com,https://www.seruminstitute.com/careers.php,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+179,Persistent Systems,Mumbai,abdul.w@neemans.com,https://careers.persistent.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+180,Bajaj Finance,Mumbai,abdul.w@neemans.com,https://www.bajajfinserv.in/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+181,Bajaj Finserv,Mumbai,abdul.w@neemans.com,https://www.bajajfinance.in/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+182,Bharat Forge,Mumbai,abdul.w@neemans.com,https://www.bharatforge.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+183,Birlasoft,Mumbai,abdul.w@neemans.com,https://www.birlasoft.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+184,Force Motors,Mumbai,abdul.w@neemans.com,https://forcemotors.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+185,Cummins India,Mumbai,abdul.w@neemans.com,https://www.cummins.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+186,John Deere India,Mumbai,abdul.w@neemans.com,https://www.deere.com/en/our-company/john-deere-careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+187,JCB India,Mumbai,abdul.w@neemans.com,https://www.jcb.com/en-in/about/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+188,Mahindra & Mahindra,Mumbai,abdul.w@neemans.com,https://www.mahindra.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+189,Tata Motors,Mumbai,abdul.w@neemans.com,https://careers.tatamotors.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+190,SKF India,Mumbai,abdul.w@neemans.com,https://www.skf.com/group/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+191,Honeywell India,Mumbai,abdul.w@neemans.com,https://careers.honeywell.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+192,Siemens India,Mumbai,abdul.w@neemans.com,https://www.siemens.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+193,Schneider Electric,Mumbai,abdul.w@neemans.com,https://www.se.com/in/en/about-us/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+194,Emerson Electric India,Mumbai,abdul.w@neemans.com,https://www.emerson.com/en-in/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+195,Bosch India,Mumbai,abdul.w@neemans.com,https://www.bosch.in/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+196,Oracle Financial Services,Mumbai,abdul.w@neemans.com,https://www.oracle.com/industries/financial-services/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+197,Deloitte India,Mumbai,abdul.w@neemans.com,https://www2.deloitte.com/in/en/careers.html,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+198,EY India,Mumbai,abdul.w@neemans.com,https://www.ey.com/en_in/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+199,KPMG India,Mumbai,abdul.w@neemans.com,https://home.kpmg/in/en/home/careers.html,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+200,American Express India,Mumbai,abdul.w@neemans.com,https://www.americanexpress.com/en-in/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+201,Standard Chartered,Benguluru,abdul.w@neemans.com,https://www.sc.com/en/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+202,ICICI Bank,Benguluru,abdul.w@neemans.com,https://www.icicibank.com/about-us/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+203,HDFC Bank,Benguluru,abdul.w@neemans.com,https://www.hdfcbank.com/aboutus/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+204,Kotak Mahindra Bank,Benguluru,abdul.w@neemans.com,https://www.kotak.com/en/careers.html,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+205,Axis Bank,Benguluru,abdul.w@neemans.com,https://www.axisbank.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+206,Reliance Industries,Benguluru,abdul.w@neemans.com,https://careers.ril.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+207,Reliance Jio,Benguluru,abdul.w@neemans.com,https://careers.jio.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+208,Aditya Birla Group,Benguluru,abdul.w@neemans.com,https://www.adityabirla.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+209,Godrej Industries,Benguluru,abdul.w@neemans.com,https://www.godrej.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+210,Nestle India,Benguluru,abdul.w@neemans.com,https://www.nestle.in/jobs,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+211,PepsiCo India,Benguluru,abdul.w@neemans.com,https://www.pepsicojobs.com/main/india,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+212,Coca-Cola India,Benguluru,abdul.w@neemans.com,https://www.coca-colacompany.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+213,Procter & Gamble (P&G),Benguluru,abdul.w@neemans.com,https://www.pgcareers.com/location/india,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+214,Unilever India,Benguluru,abdul.w@neemans.com,https://www.unileverindia.com/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+215,Maruti Suzuki India,Benguluru,abdul.w@neemans.com,https://www.marutisuzuki.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+216,Johnson & Johnson India,Benguluru,abdul.w@neemans.com,https://careers.jnj.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+217,Pfizer India,Benguluru,abdul.w@neemans.com,https://www.pfizer.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+218,Novartis India,Benguluru,abdul.w@neemans.com,https://www.novartis.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+219,ITC Limited,Benguluru,abdul.w@neemans.com,https://www.itcportal.com/careers.aspx,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+220,Hindustan Unilever Ltd (HUL),Benguluru,abdul.w@neemans.com,https://www.hul.co.in/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+221,Bharat Petroleum Corporation (BPCL),Benguluru,abdul.w@neemans.com,https://www.bharatpetroleum.com/career,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+222,Hindustan Petroleum Corporation (HPCL),Benguluru,abdul.w@neemans.com,https://www.hindustanpetroleum.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+223,Bharat Forge,Benguluru,abdul.w@neemans.com,https://www.bharatforge.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+224,Tata Steel,Benguluru,abdul.w@neemans.com,https://www.tatasteel.com/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+225,Vedanta Resources,Benguluru,abdul.w@neemans.com,https://www.vedantalimited.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+226,"Larsen & Toubro (Power / Infra Units, Mumbai HQ)",Benguluru,abdul.w@neemans.com,https://www.larsentoubro.com/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+227,Bosch Mumbai Units,Benguluru,abdul.w@neemans.com,https://www.bosch-career.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+228,Siemens Mumbai Units,Benguluru,abdul.w@neemans.com,https://www.siemens.com/in/en/company/jobs.html,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+229,Honeywell Mumbai Units,Benguluru,abdul.w@neemans.com,https://careersathoneywell.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+230,Schneider Electric India,Benguluru,abdul.w@neemans.com,https://www.se.com/in/en/about-us/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+231,Tata Power,Benguluru,abdul.w@neemans.com,https://www.tatapower.com/careers.aspx,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+232,Reliance Retail,Benguluru,abdul.w@neemans.com,https://www.ril.com/Careers/Careers-at-Reliance-Retail.aspx,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+233,Adani Group,Benguluru,abdul.w@neemans.com,https://www.adani.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+234,HDFC Life Insurance,Benguluru,abdul.w@neemans.com,https://www.hdfclife.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+235,ICICI Prudential Life Insurance,Benguluru,abdul.w@neemans.com,https://www.iciciprulife.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+236,SBI Life Insurance,Benguluru,abdul.w@neemans.com,https://www.sbilife.co.in/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+237,Tata AIA Life,Benguluru,abdul.w@neemans.com,https://www.tataaia.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+238,Kotak Life Insurance,Benguluru,abdul.w@neemans.com,https://www.kotaklife.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+239,Bajaj Allianz,Benguluru,abdul.w@neemans.com,https://www.bajajallianzlife.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+240,Godrej Properties,Benguluru,abdul.w@neemans.com,https://www.godrejproperties.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+241,Oberoi Realty,Benguluru,abdul.w@neemans.com,https://www.oberoirealty.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+242,Lodha Group,Benguluru,abdul.w@neemans.com,https://www.lodhagroup.in/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+243,DLF Mumbai Projects,Benguluru,abdul.w@neemans.com,https://www.dlf.in/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+244,Piramal Enterprises,Benguluru,abdul.w@neemans.com,https://www.piramal.com/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+245,Glenmark Pharmaceuticals,Benguluru,abdul.w@neemans.com,https://www.glenmarkpharma.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+246,Sun Pharma Mumbai Units,Benguluru,abdul.w@neemans.com,https://sunpharma.com/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+247,Biocon Mumbai / Offices,Benguluru,abdul.w@neemans.com,https://www.biocon.com/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+248,L’Oréal India,Benguluru,abdul.w@neemans.com,https://www.loreal.com/en/india/careers/,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+249,Asian Paints,Benguluru,abdul.w@neemans.com,https://www.asianpaints.com/careers.html,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+250,Raymond Ltd,Benguluru,abdul.w@neemans.com,https://www.raymond.in/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+251,Ayekart Fintech,Benguluru,abdul.w@neemans.com,https://ayekart.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+252,Finsights,Benguluru,abdul.w@neemans.com,https://finsights.biz,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+253,OriginKonnect,Benguluru,abdul.w@neemans.com,https://originkonnect.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+254,Greensat Innovation Labs,Benguluru,abdul.w@neemans.com,https://greensat.in,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+255,Spottabl,Benguluru,abdul.w@neemans.com,https://www.spottabl.com/careers,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+256,ThreatWatch360,Benguluru,abdul.w@neemans.com,https://threatwatch360.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+257,Startups24x7,Benguluru,abdul.w@neemans.com,https://startups24x7.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+258,Joistic Technologies,Benguluru,abdul.w@neemans.com,https://joistic.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+259,Simutomy,Benguluru,abdul.w@neemans.com,https://simutomy.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+260,JyoSh AI,Benguluru,abdul.w@neemans.com,https://jyosh.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+261,Finage,Benguluru,abdul.w@neemans.com,https://finage.in,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+262,HealthZen Labs,Benguluru,abdul.w@neemans.com,https://healthzen.in,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+263,AquaSense Technologies,Benguluru,abdul.w@neemans.com,https://aquasense.tech,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+264,Learnlytics,Benguluru,abdul.w@neemans.com,https://learnlytics.in,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+265,CloudHive,Benguluru,abdul.w@neemans.com,https://cloudhive.in,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+266,EduCore Labs,Benguluru,abdul.w@neemans.com,https://educorelabs.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+267,GreenChain Labs,Benguluru,abdul.w@neemans.com,https://greenchainlabs.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+268,Taskly AI,Benguluru,abdul.w@neemans.com,https://taskly.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+269,RetailMind,Benguluru,abdul.w@neemans.com,https://retailmind.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+270,SmartOps AI,Benguluru,abdul.w@neemans.com,https://smartops.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+271,PayFlux,Benguluru,abdul.w@neemans.com,https://payflux.in,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+272,NextGen Analytics,Benguluru,abdul.w@neemans.com,https://nextgenanalytics.in,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+273,Medivine Solutions,Benguluru,abdul.w@neemans.com,https://medivine.in,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+274,DataTrail Labs,Benguluru,abdul.w@neemans.com,https://datatraillabs.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+275,TrackI,Benguluru,abdul.w@neemans.com,https://tracki.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+276,AutoSage,Benguluru,abdul.w@neemans.com,https://autosage.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+277,Croplytics,Benguluru,abdul.w@neemans.com,https://croplytics.in,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+278,LoanPilot,Benguluru,abdul.w@neemans.com,https://loanpilot.in,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+279,SurveyNest,Benguluru,abdul.w@neemans.com,https://surveynest.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+280,InsightNova,Benguluru,abdul.w@neemans.com,https://insightnova.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+281,FinLoop,Benguluru,abdul.w@neemans.com,https://finloop.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+282,BioSense Analytics,Benguluru,abdul.w@neemans.com,https://biosense.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+283,UrbanPulse,Benguluru,abdul.w@neemans.com,https://urbanpulse.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+284,SkillSphere,Benguluru,abdul.w@neemans.com,https://skillsphere.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+285,QuantumEdge,Benguluru,abdul.w@neemans.com,https://quantumedge.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+286,SafeChain,Benguluru,abdul.w@neemans.com,https://safechain.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+287,Agrolytics,Benguluru,abdul.w@neemans.com,https://agrolytics.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+288,RetailBot,Benguluru,abdul.w@neemans.com,https://retailbot.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+289,HealthSync,Benguluru,abdul.w@neemans.com,https://healthsync.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+290,ConnectIQ,Benguluru,abdul.w@neemans.com,https://connectiq.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+291,Worklytics,Benguluru,abdul.w@neemans.com,https://worklytics.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+292,FleetSense,Benguluru,abdul.w@neemans.com,https://fleetsense.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+293,MindHub,Benguluru,abdul.w@neemans.com,https://mindhub.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+294,Travellytics,Benguluru,abdul.w@neemans.com,https://travellytics.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+295,PaySmart Labs,Benguluru,abdul.w@neemans.com,https://paysmartlabs.com,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+296,CityTrack AI,Benguluru,abdul.w@neemans.com,https://citytrack.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+297,EduSphere,Benguluru,abdul.w@neemans.com,https://edusphere.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+298,DataHive,Benguluru,abdul.w@neemans.com,https://datahive.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+299,OptiFlow,Benguluru,abdul.w@neemans.com,https://optiflow.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+300,Shoplytics,Benguluru,abdul.w@neemans.com,https://shoplytics.ai,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+301,CashBook,Pune,abdul.w@neemans.com,https://cashbook.in,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+302,Multipl,Pune,abdul.w@neemans.com,https://multipl.xyz,Pending,DS,5LPA - 8LPA,1,WFO,,,PENDING,PENDING,PENDING,DAY
+303,Samaaro,Pune,abdul.w@neemans.com,https://samaaro.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+304,dyte,Pune,abdul.w@neemans.com,https://dyte.io/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+305,Atmana,Pune,abdul.w@neemans.com,https://atmana.ai/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+306,Difenz,Pune,abdul.w@neemans.com,https://difenz.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+307,SalaryBook,Pune,abdul.w@neemans.com,https://salarybook.in/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+308,NeuralGarage,Pune,abdul.w@neemans.com,https://neuralgarage.ai/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+309,Even Healthcare,Pune,abdul.w@neemans.com,https://even.in/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+310,Ditto Insurance,Pune,abdul.w@neemans.com,https://joinditto.in/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+311,Swish,Pune,abdul.w@neemans.com,https://swishclub.in/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+312,Yenmo,Pune,abdul.w@neemans.com,https://yenmo.in,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+313,Felicity Games,Pune,abdul.w@neemans.com,https://felicitygames.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+314,WizCommerce,Pune,abdul.w@neemans.com,https://wizcommerce.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+315,OnFinance AI,Pune,abdul.w@neemans.com,https://onfinance.ai,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+316,EduPulse,Pune,abdul.w@neemans.com,https://edupulse.ai,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+317,Finlytics,Pune,abdul.w@neemans.com,https://finlytics.ai,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+318,HealthSphere,Pune,abdul.w@neemans.com,https://healthsphere.ai,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+319,RetailEdge,Pune,abdul.w@neemans.com,https://retailedge.ai,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+320,AgroNova,Pune,abdul.w@neemans.com,https://agronova.ai,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+321,TaskMate AI,Pune,abdul.w@neemans.com,https://taskmate.ai,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+322,Cloudlytics,Pune,abdul.w@neemans.com,https://cloudlytics.com/careers,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+323,SmartLedger,Pune,abdul.w@neemans.com,https://smartledger.ai,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+324,InsightIQ,Pune,abdul.w@neemans.com,https://insightiq.ai,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+325,Worklytics,Pune,abdul.w@neemans.com,https://worklytics.ai,Pending,DS,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+326,BioSense Labs,Pune,abdul.w@neemans.com,https://biosenselabs.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+327,Urbanlytics,Pune,abdul.w@neemans.com,https://urbanlytics.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+328,PayFlow,Pune,abdul.w@neemans.com,https://payflow.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+329,SkillStack,Pune,abdul.w@neemans.com,https://skillstack.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+330,DataForge,Pune,abdul.w@neemans.com,https://dataforge.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+331,QuantumLeap AI,Pune,abdul.w@neemans.com,https://quantumleap.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+332,Shoplytics,Pune,abdul.w@neemans.com,https://shoplytics.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+333,FleetIQ,Pune,abdul.w@neemans.com,https://fleetiq.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+334,Travellytics,Pune,abdul.w@neemans.com,https://travellytics.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+335,ConnectIQ,Pune,abdul.w@neemans.com,https://connectiq.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+336,Medivine,Pune,abdul.w@neemans.com,https://medivine.in,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,NIGHT
+337,AutoSage,Pune,abdul.w@neemans.com,https://autosage.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+338,Croplytics,Pune,abdul.w@neemans.com,https://croplytics.in,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,NIGHT
+339,TrackIQ,Pune,abdul.w@neemans.com,https://trackiq.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+340,SurveyNest,Pune,abdul.w@neemans.com,https://surveynest.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,NIGHT
+341,NextGen Analytics,Pune,abdul.w@neemans.com,https://nextgenanalytics.in,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+342,FinLoop,Pune,abdul.w@neemans.com,https://finloop.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+343,MindHub,Pune,abdul.w@neemans.com,https://mindhub.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+344,SafeChain,Pune,abdul.w@neemans.com,https://safechain.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+345,DataHive,Pune,abdul.w@neemans.com,https://datahive.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+346,OptiFlow,Pune,abdul.w@neemans.com,https://optiflow.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+347,CityTrack AI,Pune,abdul.w@neemans.com,https://citytrack.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+348,EduSphere,Pune,abdul.w@neemans.com,https://edusphere.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+349,RetailBot,Pune,abdul.w@neemans.com,https://retailbot.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+350,HealthSync,Pune,abdul.w@neemans.com,https://healthsync.ai,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+351,Cisco Systems,Pune,abdul.w@neemans.com,https://www.cisco.com/c/en/us/about/careers.html,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+352,Intel Technology India,Pune,abdul.w@neemans.com,https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+353,Hewlett Packard Enterprise,Pune,abdul.w@neemans.com,https://www.hpe.com/in/en/about/jobs.html,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+354,Ericsson India,Pune,abdul.w@neemans.com,https://www.ericsson.com/en/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+355,SAP Labs India,Pune,abdul.w@neemans.com,https://jobs.sap.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+356,General Electric,Pune,abdul.w@neemans.com,https://jobs.gecareers.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+357,Philips India,Pune,abdul.w@neemans.com,https://www.careers.philips.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+358,Toyota Kirloskar Motors,Pune,abdul.w@neemans.com,https://www.toyotabharat.com/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+359,Volvo India,Pune,abdul.w@neemans.com,https://www.volvogroup.com/en/careers/,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+360,Mercedes‑Benz R&D India,Pune,abdul.w@neemans.com,https://group.mercedes-benz.com/careers/,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+361,Mahindra Electric,Pune,abdul.w@neemans.com,https://www.mahindraelectric.com/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+362,Biocon Limited,Pune,abdul.w@neemans.com,https://www.biocon.com/careers/,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+363,Syngene International,Pune,abdul.w@neemans.com,https://www.syngeneintl.com/careers/,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+364,Nova Nordisk India,Pune,abdul.w@neemans.com,https://www.novonordisk.com/careers.html,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+365,AstraZeneca Pharma India,Pune,abdul.w@neemans.com,https://careers.astrazeneca.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+366,GlaxoSmithKline (GSK) India,Pune,abdul.w@neemans.com,https://www.gsk.com/en-gb/careers/,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+367,Rolls‑Royce (Global Capability Centre),Pune,abdul.w@neemans.com,https://www.rolls-royce.com/careers.aspx,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+368,3M India,Pune,abdul.w@neemans.com,https://www.3m.com/3M/en_US/careers-us/,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+369,ABB India,Pune,abdul.w@neemans.com,https://careers.abb/global/en,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+370,Sanofi India,Pune,abdul.w@neemans.com,https://www.sanofi.com/en/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+371,Bayer India,Pune,abdul.w@neemans.com,https://www.bayer.com/en/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+372,Colgate‑Palmolive India,Pune,abdul.w@neemans.com,https://www.colgatepalmolive.com/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+373,Mondelez India,Pune,abdul.w@neemans.com,https://careers.mondelezinternational.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+374,Abbott India,Pune,abdul.w@neemans.com,https://www.abbott.com/careers.html,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+375,GlaxoSmithKline Consumer Healthcare,Pune,abdul.w@neemans.com,https://www.gsk.com/en-gb/careers/,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+376,Dyson India,Pune,abdul.w@neemans.com,https://careers.dyson.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+377,Hewlett Packard (HP) India,Pune,abdul.w@neemans.com,https://www.hp.com/in-en/jobs.html,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+378,Broadcom (VMware) India,Pune,abdul.w@neemans.com,https://careers.broadcom.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+379,Cisco India,Pune,abdul.w@neemans.com,https://www.cisco.com/c/en/us/about/careers.html,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+380,Siemens Healthineers India,Pune,abdul.w@neemans.com,https://www.siemens-healthineers.com/in/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+381,Eaton India,Pune,abdul.w@neemans.com,https://jobs.eaton.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+382,Analog Devices India,Pune,abdul.w@neemans.com,https://www.analog.com/en/about-adi/careers.html,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,NIGHT
+383,Honeywell Aerospace India,Pune,abdul.w@neemans.com,https://careers.honeywell.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+384,Texas Instruments India,Pune,abdul.w@neemans.com,https://careers.ti.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+385,Qualcomm India,Pune,abdul.w@neemans.com,https://www.qualcomm.com/company/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,NIGHT
+386,Michelin India,Pune,abdul.w@neemans.com,https://jobs.michelin.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+387,Bridgestone India,Pune,abdul.w@neemans.com,https://www.bridgestone.com/careers/,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+388,Cummins Bengaluru,Pune,abdul.w@neemans.com,https://www.cummins.com/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+389,Honeywell Process Solutions,Pune,abdul.w@neemans.com,https://careers.honeywell.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+390,Terumo India,Pune,abdul.w@neemans.com,https://www.terumo.com/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+391,Nikon India,Pune,abdul.w@neemans.com,https://www.nikonimglobal.com/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+392,Ricoh India,Pune,abdul.w@neemans.com,https://www.ricoh.com/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+393,Fujitsu India,Pune,abdul.w@neemans.com,https://www.fujitsu.com/global/about/careers/,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+394,GEA Group India,Pune,abdul.w@neemans.com,https://www.gea.com/en/company/careers/,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+395,SKF Aerospace India,Pune,abdul.w@neemans.com,https://www.skf.com/group/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+396,KLA India,Pune,abdul.w@neemans.com,https://www.kla.com/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+397,OpenText Bangalore R&D,Pune,abdul.w@neemans.com,https://www.opentext.com/about/careers,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+398,VMware India,Pune,abdul.w@neemans.com,https://careers.vmware.com,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+399,Nokia Networks India,Pune,abdul.w@neemans.com,https://www.nokia.com/about-us/careers/,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,DAY
+400,Hitachi India,Pune,abdul.w@neemans.com,https://www.hitachi.com/careers/,Pending,DA,5LPA - 8LPA,1,WFH,,,PENDING,PENDING,PENDING,NIGHT
